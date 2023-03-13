@@ -1,16 +1,16 @@
-# instagram_profile_ui
+# Instagram UI
 
-A new Flutter project.
+Just a small effort to revamp UI design of Instagram.
 
 ## Getting Started
+```bash
+flutter pub get
+```
 
-This project is a starting point for a Flutter application.
+## Results
+<p>
+<img src="./Results/result.png" height="400" width="200" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## References
++ Flutter Staggered Grid View
