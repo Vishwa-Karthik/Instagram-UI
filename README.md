@@ -9,7 +9,7 @@ flutter pub get
 
 ## Results
 <p>
-<img src="./Results/result.png" height="400" width="200" />
+<img src="./Results/result.png" height="600" width="1200" />
 </p>
 
 ## References
